@@ -1,0 +1,28 @@
+C:\Users\97254\Desktop\שנה ב\סמסטר ב\.NET\Hw002\Hw002\bin\Debug\Hw002.exe.config
+C:\Users\97254\Desktop\שנה ב\סמסטר ב\.NET\Hw002\Hw002\bin\Debug\Hw002.exe
+C:\Users\97254\Desktop\שנה ב\סמסטר ב\.NET\Hw002\Hw002\bin\Debug\Hw002.pdb
+C:\Users\97254\Desktop\שנה ב\סמסטר ב\.NET\Hw002\Hw002\obj\Debug\Hw002.csprojAssemblyReference.cache
+C:\Users\97254\Desktop\שנה ב\סמסטר ב\.NET\Hw002\Hw002\obj\Debug\Hw002.Form1.resources
+C:\Users\97254\Desktop\שנה ב\סמסטר ב\.NET\Hw002\Hw002\obj\Debug\Hw002.Properties.Resources.resources
+C:\Users\97254\Desktop\שנה ב\סמסטר ב\.NET\Hw002\Hw002\obj\Debug\Hw002.csproj.GenerateResource.cache
+C:\Users\97254\Desktop\שנה ב\סמסטר ב\.NET\Hw002\Hw002\obj\Debug\Hw002.csproj.CoreCompileInputs.cache
+C:\Users\97254\Desktop\שנה ב\סמסטר ב\.NET\Hw002\Hw002\obj\Debug\Hw002.exe
+C:\Users\97254\Desktop\שנה ב\סמסטר ב\.NET\Hw002\Hw002\obj\Debug\Hw002.pdb
+C:\Users\97254\Desktop\שנה ב\סמסטר ב\.NET\Hw002\Hw002\obj\Debug\Hw002.AboutForm.resources
+C:\Users\97254\Desktop\שנה ב\סמסטר ב\.NET\Hw002\Hw002\obj\Debug\Hw002.SignInForm.resources
+C:\Users\97254\Desktop\שנה ב\סמסטר ב\.NET\Hw002\Hw002\obj\Debug\Hw002.SignUpForm.resources
+C:\Users\97254\Desktop\שנה ב\סמסטר ב\.NET\Hw002\Hw002\obj\Debug\Hw002.TheGame.resources
+\\Mac\Home\Desktop\Hw002_A\Hw002\bin\Debug\Hw002.exe.config
+\\Mac\Home\Desktop\Hw002_A\Hw002\bin\Debug\Hw002.exe
+\\Mac\Home\Desktop\Hw002_A\Hw002\bin\Debug\Hw002.pdb
+\\Mac\Home\Desktop\Hw002_A\Hw002\obj\Debug\Hw002.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Hw002_A\Hw002\obj\Debug\Hw002.AboutForm.resources
+\\Mac\Home\Desktop\Hw002_A\Hw002\obj\Debug\Hw002.Form1.resources
+\\Mac\Home\Desktop\Hw002_A\Hw002\obj\Debug\Hw002.Properties.Resources.resources
+\\Mac\Home\Desktop\Hw002_A\Hw002\obj\Debug\Hw002.SignInForm.resources
+\\Mac\Home\Desktop\Hw002_A\Hw002\obj\Debug\Hw002.SignUpForm.resources
+\\Mac\Home\Desktop\Hw002_A\Hw002\obj\Debug\Hw002.TheGame.resources
+\\Mac\Home\Desktop\Hw002_A\Hw002\obj\Debug\Hw002.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Hw002_A\Hw002\obj\Debug\Hw002.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Hw002_A\Hw002\obj\Debug\Hw002.exe
+\\Mac\Home\Desktop\Hw002_A\Hw002\obj\Debug\Hw002.pdb
